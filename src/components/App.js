@@ -8,7 +8,7 @@ class App extends React.Component {
             <div className="ui container portfolio">
                 <div className="ui grid">
                     <div className="three wide column section-title">
-                        <img src="https://media-exp1.licdn.com/dms/image/C5603AQEnoi4SWB7X6A/profile-displayphoto-shrink_800_800/0/1517402761307?e=1638403200&v=beta&t=l4s719bJJYA-nNHJM9Hmp93N-y_2OGiJeAqM872vQ1c" alt="profile-photo" className="ui small image" />
+                        <img src="https://media-exp1.licdn.com/dms/image/C5603AQEnoi4SWB7X6A/profile-displayphoto-shrink_800_800/0/1517402761307?e=1638403200&v=beta&t=l4s719bJJYA-nNHJM9Hmp93N-y_2OGiJeAqM872vQ1c" alt="profim" className="ui small image" />
                     </div>
                     <div className="nine wide column section-aboutme">
                         <h2 className="ui header fullname">Arvin Domingo</h2>
