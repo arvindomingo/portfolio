@@ -5,7 +5,7 @@ const Projects = [
     {
         name: 'CryptoCoin Tracker',
         type: 'React JS',
-        description: 'Personal project developed with react redux to get the current price of the Crypto coins that I am currently tracking. The app utilizes Coingecko\s Public API to fetch data about the coin I am tracking (Current market value, price change in 1 hour / 24 hour etc)',
+        description: "Personal project developed with react redux to get the current price of the Crypto coins that I am currently tracking. The app utilizes Coingecko's Public API to fetch data about the coin I am tracking (Current market value, price change in 1 hour / 24 hour etc)",
         link: 'https://arvs-cryptocointracker.netlify.com/',
         extras: [
             'React',
